@@ -50,4 +50,9 @@ just for try
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saivarshinidarga/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/saivarshinidarga/Leetcode/tree/master/0027-remove-element) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/saivarshinidarga/Leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
