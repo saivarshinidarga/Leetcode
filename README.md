@@ -9,6 +9,7 @@ just for try
 | [0100-same-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0101-symmetric-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -31,6 +32,7 @@ just for try
 | [0100-same-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0101-symmetric-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -88,4 +90,8 @@ just for try
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
