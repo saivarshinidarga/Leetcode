@@ -19,6 +19,7 @@ just for try
 | ------- |
 | [0100-same-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0101-symmetric-tree) |
+| [0126-word-ladder-ii](https://github.com/saivarshinidarga/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/saivarshinidarga/Leetcode/tree/master/0127-word-ladder) |
 | [0210-course-schedule-ii](https://github.com/saivarshinidarga/Leetcode/tree/master/0210-course-schedule-ii) |
 ## Binary Tree
@@ -45,11 +46,13 @@ just for try
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saivarshinidarga/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0126-word-ladder-ii](https://github.com/saivarshinidarga/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/saivarshinidarga/Leetcode/tree/master/0127-word-ladder) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saivarshinidarga/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0126-word-ladder-ii](https://github.com/saivarshinidarga/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/saivarshinidarga/Leetcode/tree/master/0127-word-ladder) |
 ## Sliding Window
 |  |
@@ -72,4 +75,8 @@ just for try
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/saivarshinidarga/Leetcode/tree/master/0210-course-schedule-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/saivarshinidarga/Leetcode/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
