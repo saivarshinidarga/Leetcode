@@ -9,8 +9,8 @@ class Solution(object):
         def helper(root,low,high):
             if root is None:
                 return True
-            if low<root.val<high:
-                return (helper(root.left,low,root.val)
+            if low<root.val < high:
+               return (helper(root.left,low,root.val)
                      and helper(root.right,root.val,high))
             else:
                 return False
