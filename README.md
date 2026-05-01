@@ -15,6 +15,7 @@ just for try
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@ just for try
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -88,6 +90,7 @@ just for try
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/saivarshinidarga/Leetcode/tree/master/0027-remove-element) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Graph Theory
 |  |
 | ------- |
@@ -112,4 +115,13 @@ just for try
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
