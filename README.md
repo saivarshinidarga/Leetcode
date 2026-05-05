@@ -77,6 +77,7 @@ just for try
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saivarshinidarga/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/saivarshinidarga/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/saivarshinidarga/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0126-word-ladder-ii](https://github.com/saivarshinidarga/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/saivarshinidarga/Leetcode/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -92,6 +93,7 @@ just for try
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/saivarshinidarga/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/saivarshinidarga/Leetcode/tree/master/0027-remove-element) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Graph Theory
@@ -127,4 +129,8 @@ just for try
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/saivarshinidarga/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
