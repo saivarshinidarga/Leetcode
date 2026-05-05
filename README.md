@@ -54,6 +54,7 @@ just for try
 | ------- |
 | [0002-add-two-numbers](https://github.com/saivarshinidarga/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saivarshinidarga/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/saivarshinidarga/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Math
 |  |
 | ------- |
