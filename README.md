@@ -72,6 +72,7 @@ just for try
 | [0013-roman-to-integer](https://github.com/saivarshinidarga/Leetcode/tree/master/0013-roman-to-integer) |
 | [0126-word-ladder-ii](https://github.com/saivarshinidarga/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/saivarshinidarga/Leetcode/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/saivarshinidarga/Leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@ just for try
 | [0014-longest-common-prefix](https://github.com/saivarshinidarga/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0126-word-ladder-ii](https://github.com/saivarshinidarga/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/saivarshinidarga/Leetcode/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/saivarshinidarga/Leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Sliding Window
 |  |
@@ -133,4 +135,8 @@ just for try
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/saivarshinidarga/Leetcode/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/saivarshinidarga/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
