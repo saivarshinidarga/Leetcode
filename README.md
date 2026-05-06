@@ -92,6 +92,7 @@ just for try
 | [0020-valid-parentheses](https://github.com/saivarshinidarga/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/saivarshinidarga/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/saivarshinidarga/Leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/saivarshinidarga/Leetcode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/saivarshinidarga/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/saivarshinidarga/Leetcode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/saivarshinidarga/Leetcode/tree/master/0242-valid-anagram) |
@@ -106,6 +107,7 @@ just for try
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saivarshinidarga/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saivarshinidarga/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saivarshinidarga/Leetcode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/saivarshinidarga/Leetcode/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
 | ------- |
