@@ -70,6 +70,7 @@ just for try
 | [0007-reverse-integer](https://github.com/saivarshinidarga/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/saivarshinidarga/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/saivarshinidarga/Leetcode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/saivarshinidarga/Leetcode/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -90,6 +91,7 @@ just for try
 | [0014-longest-common-prefix](https://github.com/saivarshinidarga/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/saivarshinidarga/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/saivarshinidarga/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/saivarshinidarga/Leetcode/tree/master/0067-add-binary) |
 | [0126-word-ladder-ii](https://github.com/saivarshinidarga/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/saivarshinidarga/Leetcode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/saivarshinidarga/Leetcode/tree/master/0242-valid-anagram) |
@@ -157,4 +159,12 @@ just for try
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/saivarshinidarga/Leetcode/tree/master/0242-valid-anagram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/saivarshinidarga/Leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/saivarshinidarga/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
