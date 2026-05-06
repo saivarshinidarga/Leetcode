@@ -29,6 +29,7 @@ just for try
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0802-find-eventual-safe-states](https://github.com/saivarshinidarga/Leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@ just for try
 | [0127-word-ladder](https://github.com/saivarshinidarga/Leetcode/tree/master/0127-word-ladder) |
 | [0210-course-schedule-ii](https://github.com/saivarshinidarga/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0802-find-eventual-safe-states](https://github.com/saivarshinidarga/Leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Binary Tree
 |  |
 | ------- |
@@ -109,10 +111,12 @@ just for try
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/saivarshinidarga/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/saivarshinidarga/Leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/saivarshinidarga/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/saivarshinidarga/Leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Backtracking
 |  |
 | ------- |
