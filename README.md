@@ -11,6 +11,7 @@ just for try
 | [0099-recover-binary-search-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saivarshinidarga/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -52,6 +53,7 @@ just for try
 | [0099-recover-binary-search-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saivarshinidarga/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -84,6 +86,7 @@ just for try
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saivarshinidarga/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/saivarshinidarga/Leetcode/tree/master/0013-roman-to-integer) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/saivarshinidarga/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/saivarshinidarga/Leetcode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/saivarshinidarga/Leetcode/tree/master/0242-valid-anagram) |
@@ -121,6 +124,7 @@ just for try
 | [0027-remove-element](https://github.com/saivarshinidarga/Leetcode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/saivarshinidarga/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saivarshinidarga/Leetcode/tree/master/0054-spiral-matrix) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0566-reshape-the-matrix](https://github.com/saivarshinidarga/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Graph Theory
@@ -187,4 +191,8 @@ just for try
 | [0048-rotate-image](https://github.com/saivarshinidarga/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saivarshinidarga/Leetcode/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/saivarshinidarga/Leetcode/tree/master/0566-reshape-the-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
