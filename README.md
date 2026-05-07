@@ -115,6 +115,7 @@ just for try
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saivarshinidarga/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saivarshinidarga/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saivarshinidarga/Leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/saivarshinidarga/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/saivarshinidarga/Leetcode/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
@@ -124,6 +125,7 @@ just for try
 | [0027-remove-element](https://github.com/saivarshinidarga/Leetcode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/saivarshinidarga/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saivarshinidarga/Leetcode/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/saivarshinidarga/Leetcode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0566-reshape-the-matrix](https://github.com/saivarshinidarga/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -174,6 +176,7 @@ just for try
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/saivarshinidarga/Leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/saivarshinidarga/Leetcode/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
