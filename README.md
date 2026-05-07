@@ -73,6 +73,7 @@ just for try
 | [0007-reverse-integer](https://github.com/saivarshinidarga/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/saivarshinidarga/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/saivarshinidarga/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/saivarshinidarga/Leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/saivarshinidarga/Leetcode/tree/master/0067-add-binary) |
 ## Recursion
 |  |
@@ -117,6 +118,7 @@ just for try
 | [0014-longest-common-prefix](https://github.com/saivarshinidarga/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saivarshinidarga/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saivarshinidarga/Leetcode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/saivarshinidarga/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saivarshinidarga/Leetcode/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/saivarshinidarga/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -180,6 +182,7 @@ just for try
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/saivarshinidarga/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saivarshinidarga/Leetcode/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/saivarshinidarga/Leetcode/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
