@@ -101,6 +101,7 @@ just for try
 | [0127-word-ladder](https://github.com/saivarshinidarga/Leetcode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/saivarshinidarga/Leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saivarshinidarga/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -157,6 +158,7 @@ just for try
 | [0094-binary-tree-inorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saivarshinidarga/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
