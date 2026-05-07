@@ -11,6 +11,7 @@ just for try
 | [0099-recover-binary-search-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saivarshinidarga/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -26,6 +27,7 @@ just for try
 | [0099-recover-binary-search-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0210-course-schedule-ii](https://github.com/saivarshinidarga/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saivarshinidarga/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -50,6 +52,7 @@ just for try
 | [0099-recover-binary-search-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saivarshinidarga/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -148,6 +151,7 @@ just for try
 | ------- |
 | [0020-valid-parentheses](https://github.com/saivarshinidarga/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
