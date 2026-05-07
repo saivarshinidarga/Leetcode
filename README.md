@@ -77,6 +77,7 @@ just for try
 | [0013-roman-to-integer](https://github.com/saivarshinidarga/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/saivarshinidarga/Leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/saivarshinidarga/Leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/saivarshinidarga/Leetcode/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
@@ -104,6 +105,7 @@ just for try
 | [0127-word-ladder](https://github.com/saivarshinidarga/Leetcode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/saivarshinidarga/Leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0412-fizz-buzz](https://github.com/saivarshinidarga/Leetcode/tree/master/0412-fizz-buzz) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saivarshinidarga/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
@@ -187,6 +189,7 @@ just for try
 | ------- |
 | [0054-spiral-matrix](https://github.com/saivarshinidarga/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/saivarshinidarga/Leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/saivarshinidarga/Leetcode/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/saivarshinidarga/Leetcode/tree/master/0566-reshape-the-matrix) |
 ## Matrix
 |  |
