@@ -103,6 +103,7 @@ just for try
 | [0125-valid-palindrome](https://github.com/saivarshinidarga/Leetcode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/saivarshinidarga/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/saivarshinidarga/Leetcode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/saivarshinidarga/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/saivarshinidarga/Leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/saivarshinidarga/Leetcode/tree/master/0412-fizz-buzz) |
@@ -145,6 +146,7 @@ just for try
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/saivarshinidarga/Leetcode/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/saivarshinidarga/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Design
 |  |
 | ------- |
@@ -201,4 +203,8 @@ just for try
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/saivarshinidarga/Leetcode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
