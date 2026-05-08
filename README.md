@@ -23,6 +23,7 @@ just for try
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/saivarshinidarga/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0099-recover-binary-search-tree) |
@@ -100,6 +101,7 @@ just for try
 | [0020-valid-parentheses](https://github.com/saivarshinidarga/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/saivarshinidarga/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/saivarshinidarga/Leetcode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/saivarshinidarga/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/saivarshinidarga/Leetcode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/saivarshinidarga/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/saivarshinidarga/Leetcode/tree/master/0127-word-ladder) |
@@ -130,6 +132,7 @@ just for try
 | [0051-n-queens](https://github.com/saivarshinidarga/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/saivarshinidarga/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/saivarshinidarga/Leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/saivarshinidarga/Leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0566-reshape-the-matrix](https://github.com/saivarshinidarga/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -147,6 +150,7 @@ just for try
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/saivarshinidarga/Leetcode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/saivarshinidarga/Leetcode/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/saivarshinidarga/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/saivarshinidarga/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Design
@@ -200,6 +204,7 @@ just for try
 | ------- |
 | [0048-rotate-image](https://github.com/saivarshinidarga/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saivarshinidarga/Leetcode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/saivarshinidarga/Leetcode/tree/master/0079-word-search) |
 | [0566-reshape-the-matrix](https://github.com/saivarshinidarga/Leetcode/tree/master/0566-reshape-the-matrix) |
 ## Divide and Conquer
 |  |
