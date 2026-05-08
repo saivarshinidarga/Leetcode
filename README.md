@@ -127,6 +127,7 @@ just for try
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saivarshinidarga/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saivarshinidarga/Leetcode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/saivarshinidarga/Leetcode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/saivarshinidarga/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/saivarshinidarga/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/saivarshinidarga/Leetcode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -145,6 +146,7 @@ just for try
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/saivarshinidarga/Leetcode/tree/master/0051-n-queens) |
 | [0126-word-ladder-ii](https://github.com/saivarshinidarga/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/saivarshinidarga/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Design
