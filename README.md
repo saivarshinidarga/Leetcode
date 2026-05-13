@@ -92,6 +92,7 @@ just for try
 | [0126-word-ladder-ii](https://github.com/saivarshinidarga/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/saivarshinidarga/Leetcode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/saivarshinidarga/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/saivarshinidarga/Leetcode/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
@@ -110,6 +111,7 @@ just for try
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/saivarshinidarga/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saivarshinidarga/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/saivarshinidarga/Leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/saivarshinidarga/Leetcode/tree/master/0412-fizz-buzz) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saivarshinidarga/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
@@ -218,4 +220,8 @@ just for try
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/saivarshinidarga/Leetcode/tree/master/0131-palindrome-partitioning) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/saivarshinidarga/Leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
