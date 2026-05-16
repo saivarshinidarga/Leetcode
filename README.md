@@ -145,6 +145,7 @@ just for try
 | [0088-merge-sorted-array](https://github.com/saivarshinidarga/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saivarshinidarga/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/saivarshinidarga/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0566-reshape-the-matrix](https://github.com/saivarshinidarga/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saivarshinidarga/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Graph Theory
@@ -227,6 +228,7 @@ just for try
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/saivarshinidarga/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/saivarshinidarga/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Counting
 |  |
